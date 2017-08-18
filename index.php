@@ -11,7 +11,7 @@
     </form>
      <footer>
           <div class="centar">
-                      <a href="http://www.tvojsajt.com/">Izrada sajta TvojSajt.com</a>.
+                      <a href="http://www.tvojsajt.com/">Izrada sajta TvojSajt.com</a>
           </div>
   </footer><!-- /#footer -->
 </body>
