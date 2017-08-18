@@ -9,8 +9,10 @@
       <input type="file" name="userfile">
       <input type="submit" name ="submit">
     </form>
-     <div class="centar">
-                    <a href="http://www.tvojsajt.com/">Izrada sajtova TvojSajt.com</a>.
-                </div>
+     <footer>
+          <div class="centar">
+                      <a href="http://www.tvojsajt.com/">Izrada sajta TvojSajt.com</a>.
+          </div>
+  </footer><!-- /#footer -->
 </body>
 </html>
